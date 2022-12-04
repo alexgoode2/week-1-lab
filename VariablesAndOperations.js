@@ -5,7 +5,7 @@ let availablePlaneSeats = 6;
 let costOfGroceries = 23.64;
 
 //create a variable to hold a person's middle initial
-let middleInitial = 'T';
+let middleInitial = 'G';
 
 //create a variable to hold true if it's hot outside and false if it's cold outside
 let isHotOutside = false;
